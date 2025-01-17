@@ -21,8 +21,9 @@ Welcome to my GitHub! I'm a **junior software engineer**, passionate about **cyb
 - **Implementing and Administering Cisco Solutions (CCNA)**: New Horizons, 2021  
 - **CompTIA Network+**: New Horizons, 2021
 
-### 💼 Career Goals  
-I aim to contribute to cutting-edge projects in cybersecurity and software development while advancing my knowledge in AI and blockchain technologies.  
+### 📞 Contact Info  
+- **Email**: [marwa.alazaab@gmail.com](mailto:marwa.alazaab@gmail.com)  
+- **LinkedIn**: [Marwa Alazab]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/marwa-alazab/))  
+- **GitHub**: [Marwa Alazab](https://github.com/MarwaAlazab)  
 
 ---
-
