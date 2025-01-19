@@ -8,10 +8,24 @@ Welcome to my GitHub! I'm a **junior software engineer**, passionate about **cyb
 - 🧪 **Software Testing**: Skilled in **manual** and **automation testing**, focusing on quality assurance.  
 - 🎓 **Educator**: Delivering engaging courses on information security, network security, secure programming, and software testing.  
 
-### 🚀 Projects  
-- **Voting DApp**: Built using React.js with Ethereum integration for secure and transparent voting.  
-- **Pharmaceutical Cargo Monitoring System**: A system using Arduino Mega, GPS Neo6, DHT22 Sensor, SIM800L, and ESP8266 to monitor and track pharmaceutical cargo conditions (temperature, humidity, and location) during transit, sending data via SMS and Wi-Fi.  
-- **Smart Home System**: A secured home project using modular C programming, featuring a password-based door access control system with a keypad, LCD display, LEDs, buzzer, EEPROM, Bluetooth module, and servo motor. 
+Got it! Here's the updated content for the repositories with the project names listed under each category:
+
+---
+
+# 🚀 Projects
+
+### **Blockchain Applications**: Decentralized Voting App, Decentralized Bank App
+### **Frontend Development**: Educational Website 
+### **CTFs**: Just 1 Simple CTF
+### **Java Projects**: Discrete Event Simulation, SICXE Assembler  
+### **C Projects**: Student Database  
+### **IoT Projects**: Pharmaceutical Cargo Monitoring System, Secure Home System  
+### **AI Projects**: Calculate the Heuristic Value of TicTactoe, Find the Count of M&Ms, Classify Face Image of the Extended Yale b Datasets, RNN & LSTM to Calssify Sentiment of the Tweets
+### **Game Development**: CryptoCurrency Colletor Game
+
+---
+
+Let me know if you'd like any further modifications! 😊
 
 ### 📜 Certificates  
 - **ISTQB Foundation Level**: ITIDA, 2024  
