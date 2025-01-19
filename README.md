@@ -24,6 +24,4 @@ Welcome to my GitHub! I'm a **junior software engineer**, passionate about **cyb
 ### 📞 Contact Info  
 - **Email**: [marwa.alazaab@gmail.com](mailto:marwa.alazaab@gmail.com)  
 - **LinkedIn**: [Marwa Alazab](https://www.linkedin.com/in/marwa-alazab/)
-- **GitHub**: [Marwa Alazab](https://github.com/Merve-1)
-
 ---
