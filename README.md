@@ -7,9 +7,6 @@ Welcome to my GitHub! I'm a **junior software engineer**, passionate about **cyb
 - 💻 **Software Development**: Experience in React.js, Laravel, Ethereum smart contracts, and Web3.js.  
 - 🧪 **Software Testing**: Skilled in **manual** and **automation testing**, focusing on quality assurance.  
 - 🎓 **Educator**: Delivering engaging courses on information security, network security, secure programming, and software testing.  
-
-Got it! Here's the updated content for the repositories with the project names listed under each category:
-
 ---
 
 ### 🚀 Projects
@@ -22,10 +19,7 @@ Got it! Here's the updated content for the repositories with the project names l
 - **IoT Projects**: Pharmaceutical Cargo Monitoring System, Secure Home System
 - **AI Projects**: Calculate the Heuristic Value of TicTactoe, Find the Count of M&Ms, Classify Face Image of the Extended Yale b Datasets, RNN & LSTM to Calssify Sentiment of the Tweets
 - **Game Development**: CryptoCurrency Colletor Game
-
 ---
-
-Let me know if you'd like any further modifications! 😊
 
 ### 📜 Certificates  
 - **ISTQB Foundation Level**: ITIDA, 2024  
@@ -34,6 +28,7 @@ Let me know if you'd like any further modifications! 😊
 - **Embedded Systems**: AMIT Learning, 2024  
 - **Implementing and Administering Cisco Solutions (CCNA)**: New Horizons, 2021  
 - **CompTIA Network+**: New Horizons, 2021
+---
 
 ### 📞 Contact Info  
 - **Email**: [marwa.alazaab@gmail.com](mailto:marwa.alazaab@gmail.com)  
