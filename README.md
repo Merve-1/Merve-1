@@ -21,15 +21,6 @@ Welcome to my GitHub! I'm a **junior software engineer**, passionate about **cyb
 - **Game Development**: CryptoCurrency Colletor Game
 ---
 
-### 📜 Certificates  
-- **ISTQB Foundation Level**: ITIDA, 2024  
-- **Computer Digital Forensics**: ITI & CyberTalents Bootcamp, 2024  
-- **Computer Digital Forensics**: ITI & NIELIT, 2024  
-- **Embedded Systems**: AMIT Learning, 2024  
-- **Implementing and Administering Cisco Solutions (CCNA)**: New Horizons, 2021  
-- **CompTIA Network+**: New Horizons, 2021
----
-
 ### 📞 Contact Info  
 - **Email**: [marwa.alazaab@gmail.com](mailto:marwa.alazaab@gmail.com)  
 - **LinkedIn**: [Marwa Alazab](https://www.linkedin.com/in/marwa-alazab/)
