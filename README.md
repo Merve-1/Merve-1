@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm a **junior software engineer**, passionate about **cyb
 ### 🌟 Highlights  
 - 🛡️ **Cybersecurity Expertise**: Focusing on **threat detection**, **incident response**, and **vulnerability assessment**.  
 - 💻 **Software Development**: Experience in React.js, Laravel, Ethereum smart contracts, and Web3.js.  
-- 🧪 **Software Testing**: Skilled in **manual** and **automation testing**, focusing on quality assurance.  
 - 🎓 **Educator**: Delivering engaging courses on information security, network security, secure programming, and software testing.  
 ---
 
