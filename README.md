@@ -11,8 +11,9 @@ Welcome to my GitHub! I'm a **junior software engineer**, passionate about **cyb
 
 ### 🚀 Projects
 
-- **Blockchain Applications**: Decentralized Voting App, Decentralized Bank App
-- **Frontend Development**: Educational Website
+- **Blockchain Applications**: Decentralized Voting App.
+- **Frontend Development**: Angular & React Projects.
+- **Backedn Development**: Spring Boot, Dotnet, Laravel.
 - **CTFs**: Just 1 Simple CTF
 - **Java Projects**: Discrete Event Simulation, SICXE Assembler
 - **C Projects**: Student Database
