@@ -58,5 +58,12 @@ I am passionate about identifying security weaknesses, solving Capture The Flag 
 
 ## 📫 Contact
 
-- Email: <mailto:marwa.alazaab@gmail.com>  
-- LinkedIn: <https://www.linkedin.com/in/marwa-alazab/>  
+<p align="left">
+  <a href="mailto:marwa.alazaab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marwa.alazaab%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/marwa-alazab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marwa%20Alazab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
