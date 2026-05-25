@@ -1,6 +1,6 @@
 # 👩‍💻 Marwa Alazab  
 
-Welcome to my GitHub profile! I am a **Software Engineer** with a strong focus on secure application development and cybersecurity. I specialize in building full-stack applications. Currently pursuing a master’s degree in **Cybersecurity of AI**, I focus on developing practical skills in **penetration testing**, **vulnerability assessment**, and **security research**.
+Welcome to my GitHub profile! I am a **Software Engineer** focused on building full-stack applications with a strong emphasis on secure design and cybersecurity principles. I am currently pursuing a master’s degree in **Cybersecurity of AI**, where I strengthen my practical skills in penetration testing, vulnerability assessment, and security research.
 
 I am passionate about identifying security weaknesses, solving Capture The Flag (CTF) challenges, and continuously improving my technical knowledge through hands-on labs and real-world security scenarios.
 
