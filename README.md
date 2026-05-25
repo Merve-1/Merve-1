@@ -1,6 +1,6 @@
 # 👩‍💻 Marwa Alazab  
 
-Welcome to my GitHub profile! I am a **Junior Penetration Tester** and cybersecurity enthusiast with a strong background in software engineering and secure application development. Currently pursuing a master’s degree in **Cybersecurity of AI**, I focus on developing practical skills in **penetration testing**, **vulnerability assessment**, and **security research**.
+Welcome to my GitHub profile! I am a **Software Engineer** with a strong focus on secure application development and cybersecurity. I specialize in building full-stack applications. Currently pursuing a master’s degree in **Cybersecurity of AI**, I focus on developing practical skills in **penetration testing**, **vulnerability assessment**, and **security research**.
 
 I am passionate about identifying security weaknesses, solving Capture The Flag (CTF) challenges, and continuously improving my technical knowledge through hands-on labs and real-world security scenarios.
 
@@ -8,6 +8,7 @@ I am passionate about identifying security weaknesses, solving Capture The Flag 
 
 ## 🛡️ Areas of Interest
 
+- Web development
 - Penetration Testing  
 - Web Application Security  
 - Vulnerability Assessment  
