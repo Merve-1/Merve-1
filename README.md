@@ -43,11 +43,11 @@ class MarwaAlazab:
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20CSA%20v1-C8102E?style=for-the-badge&logo=ec-council&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20%28CSA%20v1%29-C8102E?style=for-the-badge&logo=ec-council&logoColor=white"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/eLearnSecurity-eJPT%20Junior%20Penetration%20Tester-003E7E?style=for-the-badge&logo=target&logoColor=white" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-005B96?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </p>
 
 ---
