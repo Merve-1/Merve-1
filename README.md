@@ -16,51 +16,31 @@
 
 # 💫 About Me
 
-```python
-class MarwaAlazab:
+Software Engineer with experience in full-stack development and cybersecurity.
 
-    def __init__(self):
+Currently pursuing a master's degree in **Cybersecurity of AI**, with practical experience in:
 
-        self.role = "Software Engineer & Cybersecurity Researcher"
+* Penetration Testing
+* Web Application Security
+* SOC Operations
+* Digital Forensics
+* Secure Software Development
 
-        self.specialization = [
-            "Web Application Security",
-            "Secure Software Development",
-            "Penetration Testing",
-            "Cybersecurity of AI"
-        ]
-
-        self.development_stack = {
-            "frontend": ["Angular", "React", "Flutter"],
-            "backend": [".NET", "Spring Boot", "Laravel"],
-            "languages": ["Python", "Java", "C#", "PHP", "C"]
-        }
-
-        self.security_focus = {
-            "offensive_security": [
-                "Web Application Testing",
-                "Vulnerability Assessment",
-                "CTF Challenges"
-            ],
-
-            "soc_dfir": [
-                "Threat Detection",
-                "Incident Response",
-                "Digital Forensics"
-            ]
-        }
-
-    def current_goal(self):
-        return "Building secure and scalable systems while advancing offensive security and DFIR expertise"
-```
-
-I am a Software Engineer with a strong interest in cybersecurity, secure application development, and AI security research.
-
-Currently pursuing a master's degree in **Cybersecurity of AI**, while developing practical skills in penetration testing, digital forensics, SOC operations, and secure system architecture.
+I enjoy building secure applications, solving CTF challenges, and working on security-focused research and real-world labs.
 
 ---
 
-# 🛡️ Certifications
+# 🏆 Certifications
+
+<p align="left">
+
+  <img src="LINK_TO_CSA_CERTIFICATE_IMAGE" width="120"/>
+
+  <img src="LINK_TO_EJPT_CERTIFICATE_IMAGE" width="120"/>
+
+  <img src="LINK_TO_ISTQB_CERTIFICATE_IMAGE" width="120"/>
+
+</p>
 
 * Certified SOC Analyst (CSA v1)
 * eJPT — eLearnSecurity Junior Penetration Tester
@@ -73,11 +53,17 @@ Currently pursuing a master's degree in **Cybersecurity of AI**, while developin
 ## 💻 Development
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
 </p>
 
 ### Languages
@@ -92,24 +78,31 @@ Currently pursuing a master's degree in **Cybersecurity of AI**, while developin
 
 # 🔐 Cybersecurity Skills
 
-## Offensive Security & Pentesting
+## Offensive Security
 
-* Metasploit
-* Burp Suite
-* Nmap
-* Wireshark
-* Web Application Testing
-* Vulnerability Assessment
-* CTF Challenges
+<p>
+
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+</p>
 
 ## SOC & Digital Forensics
 
-* Splunk
-* Autopsy
-* Volatility
-* Threat Detection
-* Incident Response
-* Digital Forensics
+<p>
+
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Autopsy-0A0A0A?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Volatility-5C2D91?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -118,6 +111,7 @@ Currently pursuing a master's degree in **Cybersecurity of AI**, while developin
 ## 🔐 Cybersecurity Projects
 
 * CTF challenge writeups & practical labs
+* Web application security testing exercises
 * IoT Security Projects
 
   * Secure Home System
@@ -144,18 +138,22 @@ Currently pursuing a master's degree in **Cybersecurity of AI**, while developin
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Merve-1&show_icons=true&theme=tokyonight"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merve-1&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🏆 Currently Learning
+# 📚 Currently Learning
 
 * AI Security & Adversarial Attacks
-* Advanced Penetration Testing
 * Threat Hunting & DFIR
 * Secure Architecture Design
+* Advanced Penetration Testing
 
 ---
 
