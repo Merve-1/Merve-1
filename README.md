@@ -1,4 +1,4 @@
-# 👩‍💻 Marwa Alazab
+# Marwa Alazab
 
 ### Software Engineer • Cybersecurity Enthusiast • Secure Systems Developer
 
