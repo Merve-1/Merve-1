@@ -140,9 +140,9 @@ I enjoy building secure applications, solving CTF challenges, and working on sec
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Merve-1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Merve-1&show_icons=true&theme=tokyonight" width="48%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merve-1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merve-1&layout=compact&theme=tokyonight" width="48%"/>
 
 </p>
 
