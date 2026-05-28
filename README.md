@@ -54,7 +54,7 @@ class MarwaAlazab:
 
 ## ⚙️ Technical Stack
 
-### 💻 Development
+### Development
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -65,7 +65,7 @@ class MarwaAlazab:
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-### 🗣️ Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
