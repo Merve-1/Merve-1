@@ -34,11 +34,11 @@ I enjoy building secure applications, solving CTF challenges, and working on sec
 
 <p align="left">
 
-  <img src="LINK_TO_CSA_CERTIFICATE_IMAGE" width="120"/>
-
-  <img src="LINK_TO_EJPT_CERTIFICATE_IMAGE" width="120"/>
-
-  <img src="LINK_TO_ISTQB_CERTIFICATE_IMAGE" width="120"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Certified_Soc_Analyst_logo.png" width="120"/>
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/eLearnSecurity_logo.png" width="120"/>
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ISTQB_logo.png" width="120"/>
 
 </p>
 
@@ -140,9 +140,9 @@ I enjoy building secure applications, solving CTF challenges, and working on sec
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Merve-1&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Merve-1&show_icons=true&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merve-1&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merve-1&layout=compact&theme=tokyonight" />
 
 </p>
 
