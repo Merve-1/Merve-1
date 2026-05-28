@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Marwa+Alazab;Software+Engineer;Cybersecurity+Researcher;Secure+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Marwa+Alazab;Software+Engineer;Cybersecurity+Researcher;Secure+Systems+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -43,11 +43,11 @@ class MarwaAlazab:
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20%28CSA%20v1%29-C8102E?style=for-the-badge&logo=ec-council&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20CSA%20v1-C8102E?style=for-the-badge&logo=ec-council&logoColor=white" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/eLearnSecurity-eJPT%20Junior%20Penetration%20Tester-003E7E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU5ErkJggg==&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eLearnSecurity-eJPT%20Junior%20Penetration%20Tester-003E7E?style=for-the-badge&logo=target&logoColor=white" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-005B96?style=for-the-badge&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ class MarwaAlazab:
 ### 🔐 Cybersecurity
 - CTF challenge writeups & practical labs
 - Web application security testing exercises
-- **IoT Security** — Secure Home System & Pharmaceutical Cargo Monitoring
+- **IoT Security** Secure Home System & Pharmaceutical Cargo Monitoring
 
 ### 🌐 Full Stack Applications
 - Angular & React frontend applications
@@ -124,16 +124,7 @@ class MarwaAlazab:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merve-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merve-1&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Merve-1&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Merve-1&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
 </p>
 
 <p align="center">
