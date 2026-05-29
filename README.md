@@ -119,6 +119,9 @@ class MarwaAlazab:
 ---
 
 ## 📊 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username==Merve-1&show_icons=true&theme=tokyonight"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==Merve-1&layout=compact&theme=tokyonight"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Merve-1&theme=tokyonight&hide_border=true" width="70%" />
