@@ -128,8 +128,7 @@ class MarwaAlazab:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merve-1&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
-![snake gif](https://raw.githubusercontent.com/Merve-1/Merve-1/output/github-snake-dark.svg)
-
+![snake gif](https://github.com/Merve-1/Merve-1/blob/output/github-snake-dark.svg)
 
 
 ---
