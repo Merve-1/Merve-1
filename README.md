@@ -147,7 +147,7 @@ class MarwaAlazab:
 
 ## 📚 Currently Learning
 
-* 
+* 🖥️ Software Archticture 
 * 🔍 Threat Hunting & DFIR
 * 🧠 SIEM Engineering & Detection Rules
 * ⚡ Incident Response Automation
