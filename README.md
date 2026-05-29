@@ -28,15 +28,15 @@ class MarwaAlazab:
         self.name        = "Marwa Alazab"
         self.role        = "Software Engineer & Cybersecurity Researcher"
         self.education   = "MSc Cybersecurity of AI (in progress)"
-        self.focus       = [ "Security Operations Center (SOC)",
+        self.focus       = [ "Full Stack Applications", "Secure Software Development",
+                             "Security Operations Center (SOC)",
                              "Threat Hunting", "Digital Forensics",
                              "Incident Response", "Network Security",
-                             "Web Application Security",
-                             "Penetration Testing",
-                             "Secure Software Development"]
+                             "Web Application Security", "Penetration Testing"]
         self.tools       = [ "Wireshark", "Splunk", "Burp Suite", "Nmap",
                              "Metasploit", "Linux", "Python", "GitHub" ]
-        self.learning    = [ "DFIR", "Advanced Threat Hunting", "SIEM Engineering",
+        self.learning    = [ "Software Archticture", "DFIR", "Advanced Threat Hunting",
+                             "SIEM Engineering",
                              "Detection Rules", "Malware Analysis" ]
 
 ```
@@ -88,10 +88,11 @@ class MarwaAlazab:
 
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility-5C2D91?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-0A0A0A?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ### ⚔️ Offensive Security
@@ -146,8 +147,9 @@ class MarwaAlazab:
 
 ## 📚 Currently Learning
 
+* 
 * 🔍 Threat Hunting & DFIR
 * 🧠 SIEM Engineering & Detection Rules
 * ⚡ Incident Response Automation
-- 🤖 AI Security & Adversarial Attacks
-- 🏗️ Secure Architecture Design
+* 🤖 AI Security & Adversarial Attacks
+* 🏗️ Secure Architecture Design
