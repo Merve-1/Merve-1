@@ -28,11 +28,17 @@ class MarwaAlazab:
         self.name        = "Marwa Alazab"
         self.role        = "Software Engineer & Cybersecurity Researcher"
         self.education   = "MSc Cybersecurity of AI (in progress)"
-        self.focus       = ["Penetration Testing", "Web App Security",
-                            "SOC Operations", "Digital Forensics",
-                            "Secure Software Development"]
-        self.interests   = ["CTF Challenges", "Security Research",
-                            "Secure App Development"]
+        self.focus       = [ "Security Operations Center (SOC)",
+                             "Threat Hunting", "Digital Forensics",
+                             "Incident Response", "Network Security",
+                             "Web Application Security",
+                             "Penetration Testing",
+                             "Secure Software Development"]
+        self.tools       = [ "Wireshark", "Splunk", "Burp Suite", "Nmap",
+                             "Metasploit", "Linux", "Python", "GitHub" ]
+        self.learning    = [ "DFIR", "Advanced Threat Hunting", "SIEM Engineering",
+                             "Detection Rules", "Malware Analysis" ]
+
 ```
 
 ---
@@ -70,11 +76,23 @@ class MarwaAlazab:
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 🔐 Cybersecurity Skills
+
+### 🛡️ SOC & Security Operations
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+</p>
 
 ### ⚔️ Offensive Security
 
@@ -85,13 +103,6 @@ class MarwaAlazab:
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-### 🛡️ SOC & Digital Forensics
-
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autopsy-0A0A0A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Volatility-5C2D91?style=for-the-badge&logoColor=white"/>
-</p>
 
 ---
 
@@ -113,8 +124,8 @@ class MarwaAlazab:
 - M&M Counter using Computer Vision
 - Tic-Tac-Toe Heuristic Calculator
 
-### ⛓️ Blockchain
-- Decentralized Voting Application
+### 🧠 CTF Writeups
+- Coming Soon 🕒 ...
 
 ---
 
@@ -135,7 +146,8 @@ class MarwaAlazab:
 
 ## 📚 Currently Learning
 
+* 🔍 Threat Hunting & DFIR
+* 🧠 SIEM Engineering & Detection Rules
+* ⚡ Incident Response Automation
 - 🤖 AI Security & Adversarial Attacks
-- 🔍 Threat Hunting & DFIR
 - 🏗️ Secure Architecture Design
-- ⚔️ Advanced Penetration Testing
