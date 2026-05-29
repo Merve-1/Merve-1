@@ -90,8 +90,7 @@ class MarwaAlazab:
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -126,7 +125,6 @@ class MarwaAlazab:
 ### 🔐 Cybersecurity
 - CTF challenge writeups & practical labs
 - Web application security testing exercises
-- **IoT Security** Secure Home System & Pharmaceutical Cargo Monitoring
 
 ### 🌐 Full Stack Applications
 - Angular & React frontend applications
@@ -139,8 +137,6 @@ class MarwaAlazab:
 - M&M Counter using Computer Vision
 - Tic-Tac-Toe Heuristic Calculator
 
-### 🧠 CTF Writeups
-- Coming Soon 🕒 ...
 
 ---
 
