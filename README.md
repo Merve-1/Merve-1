@@ -25,20 +25,34 @@
 ```python
 class MarwaAlazab:
     def __init__(self):
-        self.name        = "Marwa Alazab"
-        self.role        = "Software Engineer & Cybersecurity Researcher"
-        self.education   = "MSc Cybersecurity of AI (in progress)"
-        self.focus       = [ "Full Stack Applications", "Secure Software Development",
-                             "Security Operations Center (SOC)",
-                             "Threat Hunting", "Digital Forensics",
-                             "Incident Response", "Network Security",
-                             "Web Application Security", "Penetration Testing"]
-        self.tools       = [ "Wireshark", "Splunk", "Burp Suite", "Nmap",
-                             "Metasploit", "Linux", "Python", "GitHub" ]
-        self.learning    = [ "Software Archticture", "DFIR", "Advanced Threat Hunting",
-                             "SIEM Engineering",
-                             "Detection Rules", "Malware Analysis" ]
+        self.name = "Marwa Alazab"
+        self.role = "Software Engineer | Security-Focused Developer"
+        self.education = "MSc Cybersecurity of AI (in progress)"
 
+        self.focus = [
+            "Full Stack Development",
+            "Backend Systems Design",
+            "Secure Software Engineering",
+            "SOC Analysis",
+            "Threat Detection & Monitoring",
+            "Web Application Security",
+            "Penetration Testing (labs & CTFs)"
+        ]
+
+        self.tools = [
+            "Python", "Java", "C#", "JavaScript",
+            "Spring Boot", ".NET", "Laravel", "Angular", "React",
+            "Linux", "Git", "Wireshark", "Splunk", "Burp Suite", "Nmap"
+        ]
+
+        self.learning = [
+            "System Design",
+            "Secure Architecture",
+            "Detection Engineering",
+            "SOC Workflows",
+            "Incident Response",
+            "Malware Analysis Basics"
+        ]
 ```
 
 ---
@@ -91,7 +105,7 @@ class MarwaAlazab:
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Volatility-5C2D91?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility-DC143C?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-0A0A0A?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
