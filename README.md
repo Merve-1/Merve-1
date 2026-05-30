@@ -120,7 +120,7 @@ class MarwaAlazab:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔐 Cybersecurity
 - CTF challenge writeups & practical labs
