@@ -143,7 +143,10 @@ class MarwaAlazab:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Merve-1&theme=tokyonight&hide_border=true" width="70%" />
+  <img
+    src="https://streak-stats.demolab.com?user=Merve-1&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
