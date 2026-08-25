@@ -63,6 +63,8 @@ class MarwaAlazab:
 ## 🏆 Certifications
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Fortinet-Fortinet%20Certified%20Associate%20in%20Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20%28CSA%20v1%29-C8102E?style=for-the-badge&logo=ec-council&logoColor=white"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/eLearnSecurity-eJPT%20Junior%20Penetration%20Tester-003E7E?style=for-the-badge&logo=target&logoColor=white" />
