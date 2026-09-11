@@ -18,6 +18,9 @@
   <a href="https://profile.hackthebox.com/profile/019e5b48-8972-7270-b84c-cdfaa6bdcb1b">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
   </a>
+  <a href="https://medium.com/@marwa.alazaab">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 
