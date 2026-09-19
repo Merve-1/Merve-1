@@ -66,6 +66,8 @@ class MarwaAlazab:
 ## 🏆 Certifications
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Fortinet-FortiSIEM%20Certified-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Fortinet-NSE%204%20Certified%20in%20FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
