@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Marwa+Alazab;Software+Engineer;Cybersecurity+Researcher;Secure+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marwa+Alazab;Software+Engineer;Secure+Software+Developer;Cybersecurity+Researcher" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,41 +30,46 @@
 
 ```python
 class MarwaAlazab:
-    def __init__(self):
+   def __init__(self):
         self.name = "Marwa Alazab"
-        self.role = "Software Engineer | Security-Focused Developer"
+        self.role = "Software Engineer | Secure Software Developer"
         self.education = "MSc Cybersecurity of AI (in progress)"
 
+        self.primary_stack = [
+            "C#", ".NET", "ASP.NET Core"
+        ]
+
+        self.secondary_stack = [
+            "JavaScript", "Node.js", "Python", "FastAPI"
+        ]
+
         self.focus = [
-            "Full Stack Development",
-            "Backend Systems Design",
+            "Backend & Full Stack Development",
             "Secure Software Engineering",
-            "SOC Analysis",
-            "Threat Detection & Monitoring",
             "Web Application Security",
-            "Penetration Testing (labs & CTFs)"
+            "Mobile Application Security",
+            "SOC Analysis",
+            "Digital Forensics & Incident Response"
         ]
 
-        self.tools = [
-            "Python", "Java", "C#", "JavaScript",
-            "Spring Boot", ".NET", "Laravel", "Angular", "React",
-            "Linux", "Git", "Wireshark", "Splunk", "Burp Suite", "Nmap"
-        ]
-
-        self.learning = [
-            "System Design",
+        self.currently_learning = [
+            "Software Architecture",
             "Secure Architecture",
-            "Detection Engineering",
-            "SOC Workflows",
-            "Incident Response",
-            "Malware Analysis Basics"
+            "Threat Hunting & Detection Engineering",
+            "AI Security"
         ]
 ```
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Professional Training
+### 🎓 Diplomas & Professional Training
 
+* **Route Academy: .NET Development Diploma**
+* **DEBI: Cybersecurity Diploma**
+* **Route Academy: SOC Track**
+
+### 🛡️ Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/Fortinet-NSE%205%20Certified%20in%20FortiWeb-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <br/><br/>
@@ -85,27 +90,48 @@ class MarwaAlazab:
 
 ## ⚙️ Technical Stack
 
-### Development
+### 🥇 Primary Stack — .NET
 
 <p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+**Core:** `C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `MVC` · `REST APIs`
+
+**Engineering:** `OOP` · `SOLID` · `Clean Architecture` · `Design Patterns` · `Authentication & Authorization` · `Testing`
+
+---
+
+### 🥈 Secondary Stack — JavaScript & Python
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Languages
+**JavaScript:** `JavaScript` · `TypeScript` · `Angular` · `React` · `Node.js`
+
+**Python:** `Automation` · `Cybersecurity Scripting` · `AI/ML`
+
+---
+
+### 🗄️ Databases & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -134,23 +160,32 @@ class MarwaAlazab:
 
 ---
 
+## 🔐 Cybersecurity Skills
+* Web application security testing
+* Mobile application security testing
+* OWASP-based security assessment
+* Vulnerability identification & analysis
+* Secure coding practices
+* Authentication & authorization security
+* API security
+* Security testing & vulnerability assessment
+* Penetration testing labs & CTFs
+  
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
+
 ## 🚀 Projects
 
-### 🔐 Cybersecurity
-- CTF challenge writeups & practical labs
-- Web application security testing exercises
-
 ### 🌐 Full Stack Applications
-- Angular & React frontend applications
-- Backend systems using Spring Boot, .NET, and Laravel
-- RESTful API development
 
-### 🤖 AI & Machine Learning
-- Tweet Sentiment Analysis using RNN & LSTM
-- Face Classification using Extended Yale B Dataset
-- M&M Counter using Computer Vision
-- Tic-Tac-Toe Heuristic Calculator
-
+* **.NET / ASP.NET Core** backend applications
+* Angular & React frontend applications
+* RESTful API development
+* External API integration
+* Full-stack application architecture
 
 ---
 
@@ -163,9 +198,7 @@ class MarwaAlazab:
 
 ## 📚 Currently Learning
 
-* 🖥️ Software Archticture 
-* 🔍 Threat Hunting & DFIR
-* 🧠 SIEM Engineering & Detection Rules
-* ⚡ Incident Response Automation
+* 🏗️ Software Architecture & System Design
+* 🔐 Secure Architecture & Application Security
 * 🤖 AI Security & Adversarial Attacks
-* 🏗️ Secure Architecture Design
+* 📱 Mobile Application Security
