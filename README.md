@@ -75,7 +75,7 @@ You'll find repositories covering different technologies and domains because thi
 
 ## ⚙️ Technical Stack
 
-### 🥇 Primary Stack — .NET
+### 🥇 Primary Stack: .NET
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -91,7 +91,7 @@ You'll find repositories covering different technologies and domains because thi
 
 ---
 
-### 🥈 Secondary Stack — JavaScript & Python
+### 🥈 Secondary Stack: JavaScript & Python
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
