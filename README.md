@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Marwa+Alazab;Software+Engineer;Secure+Software+Developer;Cybersecurity+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Marwa+Alazab;Software+Engineer;Secure+Software+Developer;AI+Integration+%26+Security" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -33,37 +33,17 @@
 
 ## 💫 About Me
 
-```python
-class MarwaAlazab:
-   def __init__(self):
-        self.name = "Marwa Alazab"
-        self.role = "Software Engineer | Secure Software Developer"
-        self.education = "MSc Cybersecurity of AI (in progress)"
+I'm a **Software Engineer** passionate about building reliable, maintainable, and secure software. My primary focus is backend and full-stack development, with a strong interest in secure software engineering, cybersecurity, and integrating AI into software solutions.
 
-        self.primary_stack = [
-            "C#", ".NET", "ASP.NET Core"
-        ]
+I primarily work with **C#, .NET, and ASP.NET Core**, while continuing to explore modern development technologies, application security, and AI-driven solutions.
 
-        self.secondary_stack = [
-            "JavaScript", "Node.js", "Python", "FastAPI"
-        ]
+My background also includes hands-on cybersecurity training, security analysis, and practical experience with security tools and methodologies.
 
-        self.focus = [
-            "Backend & Full Stack Development",
-            "Secure Software Engineering",
-            "Web Application Security",
-            "Mobile Application Security",
-            "SOC Analysis",
-            "Digital Forensics & Incident Response"
-        ]
+### 📂 About This GitHub Portfolio
 
-        self.currently_learning = [
-            "Software Architecture",
-            "Secure Architecture",
-            "Threat Hunting & Detection Engineering",
-            "AI Security"
-        ]
-```
+This GitHub profile brings together my software engineering projects, technical experiments, and educational repositories.
+
+You'll find repositories covering different technologies and domains because this profile also serves as a learning and teaching resource. Some repositories contain projects, exercises, assignments, labs, and learning materials from courses I've taken or taught.
 
 ---
 
@@ -72,7 +52,7 @@ class MarwaAlazab:
 
 * **Route Academy: .NET Development Diploma**
 * **DEBI: Cybersecurity Diploma**
-* **Route Academy: SOC Track**
+* **Route Academy: SOC Diploma**
 
 ### 🛡️ Certifications
 <p align="left">
