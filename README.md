@@ -49,6 +49,7 @@ I'm particularly interested in:
 
 I enjoy combining software engineering and cybersecurity to build applications that are not only functional but also secure.
 
+---
 ### 📂 About This GitHub Portfolio
 
 This GitHub profile showcases my journey at the intersection of **Software Engineering, Application Security, and DevSecOps**.
