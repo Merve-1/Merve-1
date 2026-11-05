@@ -61,32 +61,6 @@ My goal is to continuously explore how to build, test, and deploy secure applica
 
 ---
 
-## 🏆 Certifications & Professional Training
-### 🎓 Diplomas & Professional Training
-
-* **Route Academy: .NET Development Diploma**
-* **DEBI: Cybersecurity Diploma**
-* **Route Academy: SOC Diploma**
-
-### 🛡️ Certifications
-<p align="left">
-  <img src="https://img.shields.io/badge/Fortinet-NSE%205%20Certified%20in%20FortiWeb-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Fortinet-NSE%206%20Certified%20in%20FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Fortinet-NSE%204%20Certified%20in%20FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20%28CSA%20v1%29-C8102E?style=for-the-badge&logo=ec-council&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/eLearnSecurity-eJPT%20Junior%20Penetration%20Tester-003E7E?style=for-the-badge&logo=target&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-005B96?style=for-the-badge&logo=testing-library&logoColor=white"/>
-</p>
-
----
-
 ## ⚙️ Technical Stack
 
 ### 🔐 Application Security
@@ -184,6 +158,33 @@ My goal is to continuously explore how to build, test, and deploy secure applica
 - TCP/IP, DNS, HTTP/HTTPS & VPNs
 - Linux & Windows Administration
 
+---
+## 🏆 Certifications & Professional Training
+### 🎓 Diplomas & Professional Training
+
+* **Route Academy: .NET Development Diploma**
+* **DEBI: Cybersecurity Diploma**
+* **Route Academy: SOC Diploma**
+
+### 🛡️ Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Fortinet-NSE%205%20Certified%20in%20FortiWeb-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Fortinet-NSE%206%20Certified%20in%20FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Fortinet-NSE%204%20Certified%20in%20FortiOS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20%28CSA%20v1%29-C8102E?style=for-the-badge&logo=ec-council&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/eLearnSecurity-eJPT%20Junior%20Penetration%20Tester-003E7E?style=for-the-badge&logo=target&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ISTQB-Certified%20Tester-005B96?style=for-the-badge&logo=testing-library&logoColor=white"/>
+</p>
+
+---
+
 ## 📚 Currently Exploring
 
 - 🔐 Advanced Application & API Security
@@ -208,5 +209,5 @@ My goal is to continuously explore how to build, test, and deploy secure applica
 </p>
 
 <p align="center">
-  <i>Security is not an afterthought; it's part of the development process.</i>
+  <i>Security is not an afterthought, it's part of the development process.</i>
 </p>
