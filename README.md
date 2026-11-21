@@ -174,6 +174,8 @@ My goal is to continuously explore how to build, test, and deploy secure applica
 
 ### 🛡️ Certifications
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Fortinet-NSE%205%20Certified%20in%20FortiWeb-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Fortinet-NSE%206%20Certified%20in%20FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
