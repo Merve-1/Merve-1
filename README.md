@@ -18,8 +18,8 @@
   <a href="https://profile.hackthebox.com/profile/019e5b48-8972-7270-b84c-cdfaa6bdcb1b">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
   </a>
-  <a href="[https://medium.com/@marwa.alazaab](https://merve.gitbook.io/merve-docs)">
-    <img src="https://img.shields.io/badge/Gitbook-12100E?style=for-the-badge&logo=gitbook&logoColor=white"/>
+  <a href="https://merve.gitbook.io/merve-docs">
+      <img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@Merve_020">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
