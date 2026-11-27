@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
   </a>
   <a href="https://merve.gitbook.io/merve-docs">
-      <img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitBook-FFFFFF?style=for-the-badge&logo=gitbook&logoColor=333333"/>
   </a>
   <a href="https://www.youtube.com/@Merve_020">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
